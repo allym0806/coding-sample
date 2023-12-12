@@ -1,0 +1,1201 @@
+DATE,STATE,UR
+2021-01-01,Alabama,4.2
+2021-02-01,Alabama,3.9
+2021-03-01,Alabama,3.7
+2021-04-01,Alabama,3.6
+2021-05-01,Alabama,3.5
+2021-06-01,Alabama,3.5
+2021-07-01,Alabama,3.3
+2021-08-01,Alabama,3.2
+2021-09-01,Alabama,3.1
+2021-10-01,Alabama,2.9
+2021-11-01,Alabama,2.8
+2021-12-01,Alabama,2.7
+2022-01-01,Alabama,2.6
+2022-02-01,Alabama,2.6
+2022-03-01,Alabama,2.5
+2022-04-01,Alabama,2.5
+2022-05-01,Alabama,2.5
+2022-06-01,Alabama,2.6
+2022-07-01,Alabama,2.6
+2022-08-01,Alabama,2.6
+2022-09-01,Alabama,2.6
+2022-10-01,Alabama,2.6
+2022-11-01,Alabama,2.6
+2022-12-01,Alabama,2.6
+2021-01-01,Alaska,7.1
+2021-02-01,Alaska,7.1
+2021-03-01,Alaska,7.0
+2021-04-01,Alaska,7.0
+2021-05-01,Alaska,6.8
+2021-06-01,Alaska,6.8
+2021-07-01,Alaska,6.5
+2021-08-01,Alaska,6.3
+2021-09-01,Alaska,5.9
+2021-10-01,Alaska,5.8
+2021-11-01,Alaska,5.5
+2021-12-01,Alaska,5.4
+2022-01-01,Alaska,5.1
+2022-02-01,Alaska,4.7
+2022-03-01,Alaska,4.3
+2022-04-01,Alaska,4.1
+2022-05-01,Alaska,3.9
+2022-06-01,Alaska,3.9
+2022-07-01,Alaska,3.8
+2022-08-01,Alaska,3.6
+2022-09-01,Alaska,3.7
+2022-10-01,Alaska,3.8
+2022-11-01,Alaska,3.7
+2022-12-01,Alaska,3.7
+2021-01-01,Arizona,6.4
+2021-02-01,Arizona,6.2
+2021-03-01,Arizona,6.0
+2021-04-01,Arizona,5.8
+2021-05-01,Arizona,5.5
+2021-06-01,Arizona,5.2
+2021-07-01,Arizona,5.0
+2021-08-01,Arizona,4.7
+2021-09-01,Arizona,4.4
+2021-10-01,Arizona,4.1
+2021-11-01,Arizona,3.9
+2021-12-01,Arizona,3.7
+2022-01-01,Arizona,3.6
+2022-02-01,Arizona,3.6
+2022-03-01,Arizona,3.6
+2022-04-01,Arizona,3.6
+2022-05-01,Arizona,3.7
+2022-06-01,Arizona,3.8
+2022-07-01,Arizona,3.9
+2022-08-01,Arizona,4.0
+2022-09-01,Arizona,4.0
+2022-10-01,Arizona,4.1
+2022-11-01,Arizona,4.0
+2022-12-01,Arizona,4.0
+2021-01-01,Arkansas,4.9
+2021-02-01,Arkansas,4.8
+2021-03-01,Arkansas,4.7
+2021-04-01,Arkansas,4.5
+2021-05-01,Arkansas,4.3
+2021-06-01,Arkansas,4.2
+2021-07-01,Arkansas,4.0
+2021-08-01,Arkansas,3.8
+2021-09-01,Arkansas,3.6
+2021-10-01,Arkansas,3.5
+2021-11-01,Arkansas,3.3
+2021-12-01,Arkansas,3.3
+2022-01-01,Arkansas,3.2
+2022-02-01,Arkansas,3.2
+2022-03-01,Arkansas,3.1
+2022-04-01,Arkansas,3.1
+2022-05-01,Arkansas,3.2
+2022-06-01,Arkansas,3.2
+2022-07-01,Arkansas,3.3
+2022-08-01,Arkansas,3.4
+2022-09-01,Arkansas,3.5
+2022-10-01,Arkansas,3.5
+2022-11-01,Arkansas,3.5
+2022-12-01,Arkansas,3.4
+2021-01-01,California,8.7
+2021-02-01,California,8.5
+2021-03-01,California,8.4
+2021-04-01,California,8.2
+2021-05-01,California,7.9
+2021-06-01,California,7.8
+2021-07-01,California,7.4
+2021-08-01,California,7.0
+2021-09-01,California,6.5
+2021-10-01,California,6.2
+2021-11-01,California,5.8
+2021-12-01,California,5.5
+2022-01-01,California,5.2
+2022-02-01,California,4.7
+2022-03-01,California,4.4
+2022-04-01,California,4.1
+2022-05-01,California,4.0
+2022-06-01,California,3.9
+2022-07-01,California,3.8
+2022-08-01,California,3.8
+2022-09-01,California,4.0
+2022-10-01,California,4.1
+2022-11-01,California,4.1
+2022-12-01,California,4.1
+2021-01-01,Colorado,6.3
+2021-02-01,Colorado,6.3
+2021-03-01,Colorado,6.1
+2021-04-01,Colorado,6.1
+2021-05-01,Colorado,5.9
+2021-06-01,Colorado,5.8
+2021-07-01,Colorado,5.6
+2021-08-01,Colorado,5.3
+2021-09-01,Colorado,4.9
+2021-10-01,Colorado,4.6
+2021-11-01,Colorado,4.4
+2021-12-01,Colorado,4.2
+2022-01-01,Colorado,4.0
+2022-02-01,Colorado,3.6
+2022-03-01,Colorado,3.3
+2022-04-01,Colorado,3.1
+2022-05-01,Colorado,2.9
+2022-06-01,Colorado,2.8
+2022-07-01,Colorado,2.7
+2022-08-01,Colorado,2.6
+2022-09-01,Colorado,2.8
+2022-10-01,Colorado,2.8
+2022-11-01,Colorado,2.8
+2022-12-01,Colorado,2.8
+2021-01-01,Connecticut,7.0
+2021-02-01,Connecticut,6.9
+2021-03-01,Connecticut,6.9
+2021-04-01,Connecticut,6.9
+2021-05-01,Connecticut,6.7
+2021-06-01,Connecticut,6.7
+2021-07-01,Connecticut,6.4
+2021-08-01,Connecticut,6.2
+2021-09-01,Connecticut,5.8
+2021-10-01,Connecticut,5.6
+2021-11-01,Connecticut,5.3
+2021-12-01,Connecticut,5.1
+2022-01-01,Connecticut,4.8
+2022-02-01,Connecticut,4.6
+2022-03-01,Connecticut,4.3
+2022-04-01,Connecticut,4.2
+2022-05-01,Connecticut,4.1
+2022-06-01,Connecticut,4.0
+2022-07-01,Connecticut,4.0
+2022-08-01,Connecticut,3.9
+2022-09-01,Connecticut,4.0
+2022-10-01,Connecticut,4.0
+2022-11-01,Connecticut,4.0
+2022-12-01,Connecticut,4.0
+2021-01-01,Delaware,5.7
+2021-02-01,Delaware,5.8
+2021-03-01,Delaware,5.9
+2021-04-01,Delaware,5.9
+2021-05-01,Delaware,5.9
+2021-06-01,Delaware,5.8
+2021-07-01,Delaware,5.6
+2021-08-01,Delaware,5.5
+2021-09-01,Delaware,5.2
+2021-10-01,Delaware,5.1
+2021-11-01,Delaware,4.9
+2021-12-01,Delaware,4.7
+2022-01-01,Delaware,4.6
+2022-02-01,Delaware,4.5
+2022-03-01,Delaware,4.4
+2022-04-01,Delaware,4.3
+2022-05-01,Delaware,4.3
+2022-06-01,Delaware,4.3
+2022-07-01,Delaware,4.4
+2022-08-01,Delaware,4.5
+2022-09-01,Delaware,4.6
+2022-10-01,Delaware,4.7
+2022-11-01,Delaware,4.7
+2022-12-01,Delaware,4.6
+2021-01-01,Florida,5.9
+2021-02-01,Florida,5.6
+2021-03-01,Florida,5.3
+2021-04-01,Florida,5.1
+2021-05-01,Florida,4.9
+2021-06-01,Florida,4.8
+2021-07-01,Florida,4.6
+2021-08-01,Florida,4.4
+2021-09-01,Florida,4.1
+2021-10-01,Florida,3.9
+2021-11-01,Florida,3.7
+2021-12-01,Florida,3.6
+2022-01-01,Florida,3.5
+2022-02-01,Florida,3.3
+2022-03-01,Florida,3.1
+2022-04-01,Florida,3.0
+2022-05-01,Florida,2.9
+2022-06-01,Florida,2.8
+2022-07-01,Florida,2.7
+2022-08-01,Florida,2.7
+2022-09-01,Florida,2.7
+2022-10-01,Florida,2.7
+2022-11-01,Florida,2.7
+2022-12-01,Florida,2.7
+2021-01-01,Georgia,4.8
+2021-02-01,Georgia,4.6
+2021-03-01,Georgia,4.4
+2021-04-01,Georgia,4.2
+2021-05-01,Georgia,4.1
+2021-06-01,Georgia,4.0
+2021-07-01,Georgia,3.8
+2021-08-01,Georgia,3.7
+2021-09-01,Georgia,3.5
+2021-10-01,Georgia,3.4
+2021-11-01,Georgia,3.3
+2021-12-01,Georgia,3.2
+2022-01-01,Georgia,3.1
+2022-02-01,Georgia,3.0
+2022-03-01,Georgia,3.0
+2022-04-01,Georgia,2.9
+2022-05-01,Georgia,2.9
+2022-06-01,Georgia,3.0
+2022-07-01,Georgia,3.0
+2022-08-01,Georgia,3.1
+2022-09-01,Georgia,3.1
+2022-10-01,Georgia,3.1
+2022-11-01,Georgia,3.1
+2022-12-01,Georgia,3.1
+2021-01-01,Hawaii,9.5
+2021-02-01,Hawaii,9.2
+2021-03-01,Hawaii,8.4
+2021-04-01,Hawaii,7.7
+2021-05-01,Hawaii,6.9
+2021-06-01,Hawaii,6.3
+2021-07-01,Hawaii,5.5
+2021-08-01,Hawaii,4.8
+2021-09-01,Hawaii,4.0
+2021-10-01,Hawaii,3.4
+2021-11-01,Hawaii,3.3
+2021-12-01,Hawaii,3.2
+2022-01-01,Hawaii,3.2
+2022-02-01,Hawaii,3.2
+2022-03-01,Hawaii,3.3
+2022-04-01,Hawaii,3.3
+2022-05-01,Hawaii,3.4
+2022-06-01,Hawaii,3.4
+2022-07-01,Hawaii,3.5
+2022-08-01,Hawaii,3.6
+2022-09-01,Hawaii,3.7
+2022-10-01,Hawaii,3.7
+2022-11-01,Hawaii,3.7
+2022-12-01,Hawaii,3.7
+2021-01-01,Idaho,4.1
+2021-02-01,Idaho,4.0
+2021-03-01,Idaho,3.9
+2021-04-01,Idaho,3.8
+2021-05-01,Idaho,3.6
+2021-06-01,Idaho,3.6
+2021-07-01,Idaho,3.5
+2021-08-01,Idaho,3.4
+2021-09-01,Idaho,3.2
+2021-10-01,Idaho,3.1
+2021-11-01,Idaho,3.0
+2021-12-01,Idaho,2.8
+2022-01-01,Idaho,2.7
+2022-02-01,Idaho,2.6
+2022-03-01,Idaho,2.5
+2022-04-01,Idaho,2.5
+2022-05-01,Idaho,2.5
+2022-06-01,Idaho,2.6
+2022-07-01,Idaho,2.7
+2022-08-01,Idaho,2.8
+2022-09-01,Idaho,2.8
+2022-10-01,Idaho,2.8
+2022-11-01,Idaho,2.8
+2022-12-01,Idaho,2.8
+2021-01-01,Illinois,7.2
+2021-02-01,Illinois,7.0
+2021-03-01,Illinois,6.8
+2021-04-01,Illinois,6.6
+2021-05-01,Illinois,6.4
+2021-06-01,Illinois,6.4
+2021-07-01,Illinois,6.1
+2021-08-01,Illinois,5.9
+2021-09-01,Illinois,5.5
+2021-10-01,Illinois,5.3
+2021-11-01,Illinois,5.0
+2021-12-01,Illinois,4.9
+2022-01-01,Illinois,4.8
+2022-02-01,Illinois,4.6
+2022-03-01,Illinois,4.5
+2022-04-01,Illinois,4.5
+2022-05-01,Illinois,4.4
+2022-06-01,Illinois,4.4
+2022-07-01,Illinois,4.4
+2022-08-01,Illinois,4.5
+2022-09-01,Illinois,4.6
+2022-10-01,Illinois,4.6
+2022-11-01,Illinois,4.6
+2022-12-01,Illinois,4.6
+2021-01-01,Indiana,4.7
+2021-02-01,Indiana,4.5
+2021-03-01,Indiana,4.4
+2021-04-01,Indiana,4.3
+2021-05-01,Indiana,4.1
+2021-06-01,Indiana,4.1
+2021-07-01,Indiana,3.9
+2021-08-01,Indiana,3.7
+2021-09-01,Indiana,3.5
+2021-10-01,Indiana,3.3
+2021-11-01,Indiana,3.2
+2021-12-01,Indiana,3.0
+2022-01-01,Indiana,2.9
+2022-02-01,Indiana,2.8
+2022-03-01,Indiana,2.8
+2022-04-01,Indiana,2.8
+2022-05-01,Indiana,2.9
+2022-06-01,Indiana,2.9
+2022-07-01,Indiana,3.0
+2022-08-01,Indiana,3.1
+2022-09-01,Indiana,3.2
+2022-10-01,Indiana,3.2
+2022-11-01,Indiana,3.2
+2022-12-01,Indiana,3.1
+2021-01-01,Iowa,4.2
+2021-02-01,Iowa,4.2
+2021-03-01,Iowa,4.2
+2021-04-01,Iowa,4.2
+2021-05-01,Iowa,4.1
+2021-06-01,Iowa,4.1
+2021-07-01,Iowa,4.0
+2021-08-01,Iowa,3.8
+2021-09-01,Iowa,3.6
+2021-10-01,Iowa,3.4
+2021-11-01,Iowa,3.1
+2021-12-01,Iowa,2.9
+2022-01-01,Iowa,2.7
+2022-02-01,Iowa,2.5
+2022-03-01,Iowa,2.4
+2022-04-01,Iowa,2.3
+2022-05-01,Iowa,2.4
+2022-06-01,Iowa,2.6
+2022-07-01,Iowa,2.8
+2022-08-01,Iowa,2.9
+2022-09-01,Iowa,3.1
+2022-10-01,Iowa,3.1
+2022-11-01,Iowa,3.1
+2022-12-01,Iowa,3.0
+2021-01-01,Kansas,3.9
+2021-02-01,Kansas,3.7
+2021-03-01,Kansas,3.6
+2021-04-01,Kansas,3.5
+2021-05-01,Kansas,3.5
+2021-06-01,Kansas,3.5
+2021-07-01,Kansas,3.4
+2021-08-01,Kansas,3.3
+2021-09-01,Kansas,3.1
+2021-10-01,Kansas,2.9
+2021-11-01,Kansas,2.7
+2021-12-01,Kansas,2.6
+2022-01-01,Kansas,2.5
+2022-02-01,Kansas,2.4
+2022-03-01,Kansas,2.4
+2022-04-01,Kansas,2.4
+2022-05-01,Kansas,2.5
+2022-06-01,Kansas,2.6
+2022-07-01,Kansas,2.7
+2022-08-01,Kansas,2.8
+2022-09-01,Kansas,2.9
+2022-10-01,Kansas,3.0
+2022-11-01,Kansas,2.9
+2022-12-01,Kansas,2.9
+2021-01-01,Kentucky,4.6
+2021-02-01,Kentucky,4.5
+2021-03-01,Kentucky,4.5
+2021-04-01,Kentucky,4.5
+2021-05-01,Kentucky,4.5
+2021-06-01,Kentucky,4.5
+2021-07-01,Kentucky,4.5
+2021-08-01,Kentucky,4.5
+2021-09-01,Kentucky,4.4
+2021-10-01,Kentucky,4.3
+2021-11-01,Kentucky,4.2
+2021-12-01,Kentucky,4.1
+2022-01-01,Kentucky,4.0
+2022-02-01,Kentucky,3.9
+2022-03-01,Kentucky,3.8
+2022-04-01,Kentucky,3.8
+2022-05-01,Kentucky,3.8
+2022-06-01,Kentucky,3.9
+2022-07-01,Kentucky,3.9
+2022-08-01,Kentucky,4.0
+2022-09-01,Kentucky,4.0
+2022-10-01,Kentucky,4.0
+2022-11-01,Kentucky,3.9
+2022-12-01,Kentucky,3.9
+2021-01-01,Louisiana,7.0
+2021-02-01,Louisiana,6.8
+2021-03-01,Louisiana,6.6
+2021-04-01,Louisiana,6.4
+2021-05-01,Louisiana,6.1
+2021-06-01,Louisiana,5.9
+2021-07-01,Louisiana,5.5
+2021-08-01,Louisiana,5.2
+2021-09-01,Louisiana,4.8
+2021-10-01,Louisiana,4.5
+2021-11-01,Louisiana,4.3
+2021-12-01,Louisiana,4.1
+2022-01-01,Louisiana,4.0
+2022-02-01,Louisiana,3.9
+2022-03-01,Louisiana,3.7
+2022-04-01,Louisiana,3.6
+2022-05-01,Louisiana,3.5
+2022-06-01,Louisiana,3.5
+2022-07-01,Louisiana,3.5
+2022-08-01,Louisiana,3.5
+2022-09-01,Louisiana,3.6
+2022-10-01,Louisiana,3.6
+2022-11-01,Louisiana,3.6
+2022-12-01,Louisiana,3.5
+2021-01-01,Maine,4.4
+2021-02-01,Maine,4.6
+2021-03-01,Maine,4.8
+2021-04-01,Maine,4.9
+2021-05-01,Maine,4.8
+2021-06-01,Maine,5.0
+2021-07-01,Maine,4.9
+2021-08-01,Maine,4.8
+2021-09-01,Maine,4.6
+2021-10-01,Maine,4.5
+2021-11-01,Maine,4.2
+2021-12-01,Maine,3.9
+2022-01-01,Maine,3.6
+2022-02-01,Maine,3.2
+2022-03-01,Maine,2.9
+2022-04-01,Maine,2.7
+2022-05-01,Maine,2.6
+2022-06-01,Maine,2.6
+2022-07-01,Maine,2.7
+2022-08-01,Maine,2.7
+2022-09-01,Maine,3.0
+2022-10-01,Maine,3.1
+2022-11-01,Maine,3.1
+2022-12-01,Maine,3.1
+2021-01-01,Maryland,6.4
+2021-02-01,Maryland,6.2
+2021-03-01,Maryland,6.0
+2021-04-01,Maryland,5.9
+2021-05-01,Maryland,5.7
+2021-06-01,Maryland,5.7
+2021-07-01,Maryland,5.5
+2021-08-01,Maryland,5.3
+2021-09-01,Maryland,4.8
+2021-10-01,Maryland,4.5
+2021-11-01,Maryland,4.1
+2021-12-01,Maryland,3.7
+2022-01-01,Maryland,3.7
+2022-02-01,Maryland,3.4
+2022-03-01,Maryland,3.2
+2022-04-01,Maryland,3.1
+2022-05-01,Maryland,3.1
+2022-06-01,Maryland,3.2
+2022-07-01,Maryland,3.2
+2022-08-01,Maryland,3.4
+2022-09-01,Maryland,3.2
+2022-10-01,Maryland,3.2
+2022-11-01,Maryland,3.1
+2022-12-01,Maryland,3.0
+2021-01-01,Massachusetts,7.1
+2021-02-01,Massachusetts,6.7
+2021-03-01,Massachusetts,6.4
+2021-04-01,Massachusetts,6.3
+2021-05-01,Massachusetts,5.8
+2021-06-01,Massachusetts,5.8
+2021-07-01,Massachusetts,5.5
+2021-08-01,Massachusetts,5.2
+2021-09-01,Massachusetts,4.8
+2021-10-01,Massachusetts,4.6
+2021-11-01,Massachusetts,4.2
+2021-12-01,Massachusetts,3.9
+2022-01-01,Massachusetts,4.0
+2022-02-01,Massachusetts,3.9
+2022-03-01,Massachusetts,3.7
+2022-04-01,Massachusetts,3.7
+2022-05-01,Massachusetts,3.7
+2022-06-01,Massachusetts,3.7
+2022-07-01,Massachusetts,3.7
+2022-08-01,Massachusetts,3.9
+2022-09-01,Massachusetts,3.7
+2022-10-01,Massachusetts,3.8
+2022-11-01,Massachusetts,3.7
+2022-12-01,Massachusetts,3.7
+2021-01-01,Michigan,6.5
+2021-02-01,Michigan,6.4
+2021-03-01,Michigan,6.2
+2021-04-01,Michigan,6.2
+2021-05-01,Michigan,6.2
+2021-06-01,Michigan,6.2
+2021-07-01,Michigan,6.2
+2021-08-01,Michigan,5.9
+2021-09-01,Michigan,5.6
+2021-10-01,Michigan,5.3
+2021-11-01,Michigan,4.9
+2021-12-01,Michigan,4.6
+2022-01-01,Michigan,4.4
+2022-02-01,Michigan,4.2
+2022-03-01,Michigan,4.1
+2022-04-01,Michigan,4.0
+2022-05-01,Michigan,4.0
+2022-06-01,Michigan,4.0
+2022-07-01,Michigan,4.1
+2022-08-01,Michigan,4.3
+2022-09-01,Michigan,4.3
+2022-10-01,Michigan,4.4
+2022-11-01,Michigan,4.4
+2022-12-01,Michigan,4.3
+2021-01-01,Minnesota,4.5
+2021-02-01,Minnesota,4.3
+2021-03-01,Minnesota,4.1
+2021-04-01,Minnesota,4.0
+2021-05-01,Minnesota,3.9
+2021-06-01,Minnesota,3.9
+2021-07-01,Minnesota,3.8
+2021-08-01,Minnesota,3.7
+2021-09-01,Minnesota,3.6
+2021-10-01,Minnesota,3.4
+2021-11-01,Minnesota,3.2
+2021-12-01,Minnesota,3.0
+2022-01-01,Minnesota,2.8
+2022-02-01,Minnesota,2.6
+2022-03-01,Minnesota,2.4
+2022-04-01,Minnesota,2.3
+2022-05-01,Minnesota,2.4
+2022-06-01,Minnesota,2.4
+2022-07-01,Minnesota,2.6
+2022-08-01,Minnesota,2.7
+2022-09-01,Minnesota,2.9
+2022-10-01,Minnesota,3.0
+2022-11-01,Minnesota,3.0
+2022-12-01,Minnesota,2.9
+2021-01-01,Mississippi,6.5
+2021-02-01,Mississippi,6.4
+2021-03-01,Mississippi,6.2
+2021-04-01,Mississippi,6.1
+2021-05-01,Mississippi,5.9
+2021-06-01,Mississippi,5.7
+2021-07-01,Mississippi,5.5
+2021-08-01,Mississippi,5.2
+2021-09-01,Mississippi,5.0
+2021-10-01,Mississippi,4.7
+2021-11-01,Mississippi,4.5
+2021-12-01,Mississippi,4.3
+2022-01-01,Mississippi,4.1
+2022-02-01,Mississippi,4.0
+2022-03-01,Mississippi,3.8
+2022-04-01,Mississippi,3.7
+2022-05-01,Mississippi,3.7
+2022-06-01,Mississippi,3.7
+2022-07-01,Mississippi,3.8
+2022-08-01,Mississippi,3.9
+2022-09-01,Mississippi,4.0
+2022-10-01,Mississippi,4.1
+2022-11-01,Mississippi,4.1
+2022-12-01,Mississippi,4.0
+2021-01-01,Missouri,4.9
+2021-02-01,Missouri,4.8
+2021-03-01,Missouri,4.7
+2021-04-01,Missouri,4.6
+2021-05-01,Missouri,4.4
+2021-06-01,Missouri,4.2
+2021-07-01,Missouri,4.0
+2021-08-01,Missouri,3.8
+2021-09-01,Missouri,3.7
+2021-10-01,Missouri,3.5
+2021-11-01,Missouri,3.3
+2021-12-01,Missouri,3.1
+2022-01-01,Missouri,2.9
+2022-02-01,Missouri,2.7
+2022-03-01,Missouri,2.5
+2022-04-01,Missouri,2.3
+2022-05-01,Missouri,2.1
+2022-06-01,Missouri,2.1
+2022-07-01,Missouri,2.2
+2022-08-01,Missouri,2.4
+2022-09-01,Missouri,2.6
+2022-10-01,Missouri,2.7
+2022-11-01,Missouri,2.7
+2022-12-01,Missouri,2.7
+2021-01-01,Montana,4.0
+2021-02-01,Montana,3.8
+2021-03-01,Montana,3.7
+2021-04-01,Montana,3.7
+2021-05-01,Montana,3.6
+2021-06-01,Montana,3.5
+2021-07-01,Montana,3.4
+2021-08-01,Montana,3.3
+2021-09-01,Montana,3.1
+2021-10-01,Montana,3.0
+2021-11-01,Montana,2.8
+2021-12-01,Montana,2.7
+2022-01-01,Montana,2.6
+2022-02-01,Montana,2.5
+2022-03-01,Montana,2.5
+2022-04-01,Montana,2.6
+2022-05-01,Montana,2.6
+2022-06-01,Montana,2.7
+2022-07-01,Montana,2.7
+2022-08-01,Montana,2.7
+2022-09-01,Montana,2.7
+2022-10-01,Montana,2.7
+2022-11-01,Montana,2.7
+2022-12-01,Montana,2.6
+2021-01-01,Nebraska,3.0
+2021-02-01,Nebraska,3.0
+2021-03-01,Nebraska,2.9
+2021-04-01,Nebraska,2.9
+2021-05-01,Nebraska,2.8
+2021-06-01,Nebraska,2.7
+2021-07-01,Nebraska,2.7
+2021-08-01,Nebraska,2.7
+2021-09-01,Nebraska,2.6
+2021-10-01,Nebraska,2.5
+2021-11-01,Nebraska,2.3
+2021-12-01,Nebraska,2.2
+2022-01-01,Nebraska,2.1
+2022-02-01,Nebraska,2.0
+2022-03-01,Nebraska,2.0
+2022-04-01,Nebraska,2.0
+2022-05-01,Nebraska,2.1
+2022-06-01,Nebraska,2.2
+2022-07-01,Nebraska,2.4
+2022-08-01,Nebraska,2.6
+2022-09-01,Nebraska,2.6
+2022-10-01,Nebraska,2.7
+2022-11-01,Nebraska,2.7
+2022-12-01,Nebraska,2.7
+2021-01-01,Nevada,9.0
+2021-02-01,Nevada,8.5
+2021-03-01,Nevada,8.0
+2021-04-01,Nevada,7.7
+2021-05-01,Nevada,7.3
+2021-06-01,Nevada,7.0
+2021-07-01,Nevada,6.6
+2021-08-01,Nevada,6.3
+2021-09-01,Nevada,6.0
+2021-10-01,Nevada,5.8
+2021-11-01,Nevada,5.6
+2021-12-01,Nevada,5.5
+2022-01-01,Nevada,5.4
+2022-02-01,Nevada,5.3
+2022-03-01,Nevada,5.3
+2022-04-01,Nevada,5.2
+2022-05-01,Nevada,5.2
+2022-06-01,Nevada,5.2
+2022-07-01,Nevada,5.3
+2022-08-01,Nevada,5.4
+2022-09-01,Nevada,5.5
+2022-10-01,Nevada,5.5
+2022-11-01,Nevada,5.5
+2022-12-01,Nevada,5.5
+2021-01-01,New Hampshire,4.2
+2021-02-01,New Hampshire,4.1
+2021-03-01,New Hampshire,3.9
+2021-04-01,New Hampshire,3.8
+2021-05-01,New Hampshire,3.6
+2021-06-01,New Hampshire,3.5
+2021-07-01,New Hampshire,3.4
+2021-08-01,New Hampshire,3.2
+2021-09-01,New Hampshire,3.0
+2021-10-01,New Hampshire,2.9
+2021-11-01,New Hampshire,2.7
+2021-12-01,New Hampshire,2.5
+2022-01-01,New Hampshire,2.3
+2022-02-01,New Hampshire,2.2
+2022-03-01,New Hampshire,2.1
+2022-04-01,New Hampshire,2.1
+2022-05-01,New Hampshire,2.2
+2022-06-01,New Hampshire,2.4
+2022-07-01,New Hampshire,2.5
+2022-08-01,New Hampshire,2.7
+2022-09-01,New Hampshire,2.8
+2022-10-01,New Hampshire,2.9
+2022-11-01,New Hampshire,2.9
+2022-12-01,New Hampshire,2.9
+2021-01-01,New Jersey,7.2
+2021-02-01,New Jersey,7.2
+2021-03-01,New Jersey,7.1
+2021-04-01,New Jersey,7.1
+2021-05-01,New Jersey,6.9
+2021-06-01,New Jersey,7.1
+2021-07-01,New Jersey,6.8
+2021-08-01,New Jersey,6.7
+2021-09-01,New Jersey,6.2
+2021-10-01,New Jersey,6.0
+2021-11-01,New Jersey,5.6
+2021-12-01,New Jersey,5.4
+2022-01-01,New Jersey,5.1
+2022-02-01,New Jersey,4.6
+2022-03-01,New Jersey,4.1
+2022-04-01,New Jersey,3.9
+2022-05-01,New Jersey,3.6
+2022-06-01,New Jersey,3.4
+2022-07-01,New Jersey,3.2
+2022-08-01,New Jersey,3.0
+2022-09-01,New Jersey,3.2
+2022-10-01,New Jersey,3.3
+2022-11-01,New Jersey,3.3
+2022-12-01,New Jersey,3.3
+2021-01-01,New Mexico,8.2
+2021-02-01,New Mexico,8.1
+2021-03-01,New Mexico,7.9
+2021-04-01,New Mexico,7.8
+2021-05-01,New Mexico,7.5
+2021-06-01,New Mexico,7.4
+2021-07-01,New Mexico,7.1
+2021-08-01,New Mexico,6.8
+2021-09-01,New Mexico,6.3
+2021-10-01,New Mexico,6.1
+2021-11-01,New Mexico,5.9
+2021-12-01,New Mexico,5.6
+2022-01-01,New Mexico,5.4
+2022-02-01,New Mexico,5.0
+2022-03-01,New Mexico,4.6
+2022-04-01,New Mexico,4.3
+2022-05-01,New Mexico,4.1
+2022-06-01,New Mexico,3.9
+2022-07-01,New Mexico,3.6
+2022-08-01,New Mexico,3.4
+2022-09-01,New Mexico,3.5
+2022-10-01,New Mexico,3.5
+2022-11-01,New Mexico,3.5
+2022-12-01,New Mexico,3.5
+2021-01-01,New York,8.5
+2021-02-01,New York,8.3
+2021-03-01,New York,8.0
+2021-04-01,New York,7.8
+2021-05-01,New York,7.4
+2021-06-01,New York,7.4
+2021-07-01,New York,7.0
+2021-08-01,New York,6.7
+2021-09-01,New York,6.2
+2021-10-01,New York,5.9
+2021-11-01,New York,5.6
+2021-12-01,New York,5.4
+2022-01-01,New York,5.1
+2022-02-01,New York,4.7
+2022-03-01,New York,4.4
+2022-04-01,New York,4.3
+2022-05-01,New York,4.1
+2022-06-01,New York,4.1
+2022-07-01,New York,4.0
+2022-08-01,New York,3.9
+2022-09-01,New York,4.0
+2022-10-01,New York,4.2
+2022-11-01,New York,4.1
+2022-12-01,New York,4.1
+2021-01-01,North Carolina,5.6
+2021-02-01,North Carolina,5.5
+2021-03-01,North Carolina,5.4
+2021-04-01,North Carolina,5.2
+2021-05-01,North Carolina,5.1
+2021-06-01,North Carolina,5.0
+2021-07-01,North Carolina,4.9
+2021-08-01,North Carolina,4.8
+2021-09-01,North Carolina,4.6
+2021-10-01,North Carolina,4.4
+2021-11-01,North Carolina,4.1
+2021-12-01,North Carolina,3.9
+2022-01-01,North Carolina,3.6
+2022-02-01,North Carolina,3.4
+2022-03-01,North Carolina,3.3
+2022-04-01,North Carolina,3.3
+2022-05-01,North Carolina,3.4
+2022-06-01,North Carolina,3.6
+2022-07-01,North Carolina,3.7
+2022-08-01,North Carolina,3.9
+2022-09-01,North Carolina,3.9
+2022-10-01,North Carolina,3.9
+2022-11-01,North Carolina,3.9
+2022-12-01,North Carolina,3.8
+2021-01-01,North Dakota,4.1
+2021-02-01,North Dakota,3.9
+2021-03-01,North Dakota,3.7
+2021-04-01,North Dakota,3.5
+2021-05-01,North Dakota,3.2
+2021-06-01,North Dakota,3.0
+2021-07-01,North Dakota,2.9
+2021-08-01,North Dakota,2.7
+2021-09-01,North Dakota,2.6
+2021-10-01,North Dakota,2.5
+2021-11-01,North Dakota,2.4
+2021-12-01,North Dakota,2.3
+2022-01-01,North Dakota,2.3
+2022-02-01,North Dakota,2.2
+2022-03-01,North Dakota,2.1
+2022-04-01,North Dakota,2.0
+2022-05-01,North Dakota,2.0
+2022-06-01,North Dakota,2.0
+2022-07-01,North Dakota,2.0
+2022-08-01,North Dakota,2.0
+2022-09-01,North Dakota,2.1
+2022-10-01,North Dakota,2.1
+2022-11-01,North Dakota,2.1
+2022-12-01,North Dakota,2.1
+2021-01-01,Ohio,6.0
+2021-02-01,Ohio,5.9
+2021-03-01,Ohio,5.7
+2021-04-01,Ohio,5.6
+2021-05-01,Ohio,5.4
+2021-06-01,Ohio,5.3
+2021-07-01,Ohio,5.1
+2021-08-01,Ohio,4.9
+2021-09-01,Ohio,4.7
+2021-10-01,Ohio,4.5
+2021-11-01,Ohio,4.3
+2021-12-01,Ohio,4.2
+2022-01-01,Ohio,4.1
+2022-02-01,Ohio,4.0
+2022-03-01,Ohio,3.9
+2022-04-01,Ohio,3.9
+2022-05-01,Ohio,3.9
+2022-06-01,Ohio,3.9
+2022-07-01,Ohio,4.0
+2022-08-01,Ohio,4.1
+2022-09-01,Ohio,4.1
+2022-10-01,Ohio,4.2
+2022-11-01,Ohio,4.1
+2022-12-01,Ohio,4.1
+2021-01-01,Oklahoma,5.0
+2021-02-01,Oklahoma,4.9
+2021-03-01,Oklahoma,4.7
+2021-04-01,Oklahoma,4.6
+2021-05-01,Oklahoma,4.5
+2021-06-01,Oklahoma,4.3
+2021-07-01,Oklahoma,4.0
+2021-08-01,Oklahoma,3.7
+2021-09-01,Oklahoma,3.4
+2021-10-01,Oklahoma,3.2
+2021-11-01,Oklahoma,3.0
+2021-12-01,Oklahoma,2.9
+2022-01-01,Oklahoma,2.9
+2022-02-01,Oklahoma,2.8
+2022-03-01,Oklahoma,2.8
+2022-04-01,Oklahoma,2.8
+2022-05-01,Oklahoma,2.9
+2022-06-01,Oklahoma,3.0
+2022-07-01,Oklahoma,3.1
+2022-08-01,Oklahoma,3.2
+2022-09-01,Oklahoma,3.2
+2022-10-01,Oklahoma,3.2
+2022-11-01,Oklahoma,3.2
+2022-12-01,Oklahoma,3.2
+2021-01-01,Oregon,6.4
+2021-02-01,Oregon,6.3
+2021-03-01,Oregon,6.1
+2021-04-01,Oregon,5.9
+2021-05-01,Oregon,5.6
+2021-06-01,Oregon,5.4
+2021-07-01,Oregon,5.1
+2021-08-01,Oregon,4.8
+2021-09-01,Oregon,4.5
+2021-10-01,Oregon,4.3
+2021-11-01,Oregon,4.1
+2021-12-01,Oregon,4.0
+2022-01-01,Oregon,3.8
+2022-02-01,Oregon,3.7
+2022-03-01,Oregon,3.5
+2022-04-01,Oregon,3.6
+2022-05-01,Oregon,3.7
+2022-06-01,Oregon,3.9
+2022-07-01,Oregon,4.1
+2022-08-01,Oregon,4.3
+2022-09-01,Oregon,4.6
+2022-10-01,Oregon,4.8
+2022-11-01,Oregon,4.8
+2022-12-01,Oregon,4.8
+2021-01-01,Pennsylvania,7.5
+2021-02-01,Pennsylvania,7.2
+2021-03-01,Pennsylvania,6.9
+2021-04-01,Pennsylvania,6.6
+2021-05-01,Pennsylvania,6.4
+2021-06-01,Pennsylvania,6.2
+2021-07-01,Pennsylvania,6.0
+2021-08-01,Pennsylvania,5.7
+2021-09-01,Pennsylvania,5.4
+2021-10-01,Pennsylvania,5.1
+2021-11-01,Pennsylvania,4.8
+2021-12-01,Pennsylvania,4.6
+2022-01-01,Pennsylvania,4.5
+2022-02-01,Pennsylvania,4.4
+2022-03-01,Pennsylvania,4.4
+2022-04-01,Pennsylvania,4.3
+2022-05-01,Pennsylvania,4.3
+2022-06-01,Pennsylvania,4.3
+2022-07-01,Pennsylvania,4.3
+2022-08-01,Pennsylvania,4.3
+2022-09-01,Pennsylvania,4.3
+2022-10-01,Pennsylvania,4.4
+2022-11-01,Pennsylvania,4.4
+2022-12-01,Pennsylvania,4.3
+2021-01-01,Rhode Island,6.5
+2021-02-01,Rhode Island,6.2
+2021-03-01,Rhode Island,6.1
+2021-04-01,Rhode Island,6.1
+2021-05-01,Rhode Island,5.9
+2021-06-01,Rhode Island,6.0
+2021-07-01,Rhode Island,5.8
+2021-08-01,Rhode Island,5.6
+2021-09-01,Rhode Island,5.2
+2021-10-01,Rhode Island,4.7
+2021-11-01,Rhode Island,4.2
+2021-12-01,Rhode Island,3.8
+2022-01-01,Rhode Island,3.5
+2022-02-01,Rhode Island,3.2
+2022-03-01,Rhode Island,3.0
+2022-04-01,Rhode Island,2.9
+2022-05-01,Rhode Island,3.0
+2022-06-01,Rhode Island,3.1
+2022-07-01,Rhode Island,3.2
+2022-08-01,Rhode Island,3.4
+2022-09-01,Rhode Island,3.4
+2022-10-01,Rhode Island,3.4
+2022-11-01,Rhode Island,3.3
+2022-12-01,Rhode Island,3.2
+2021-01-01,South Carolina,4.6
+2021-02-01,South Carolina,4.4
+2021-03-01,South Carolina,4.3
+2021-04-01,South Carolina,4.2
+2021-05-01,South Carolina,4.1
+2021-06-01,South Carolina,4.1
+2021-07-01,South Carolina,4.0
+2021-08-01,South Carolina,3.9
+2021-09-01,South Carolina,3.7
+2021-10-01,South Carolina,3.6
+2021-11-01,South Carolina,3.5
+2021-12-01,South Carolina,3.4
+2022-01-01,South Carolina,3.3
+2022-02-01,South Carolina,3.3
+2022-03-01,South Carolina,3.2
+2022-04-01,South Carolina,3.2
+2022-05-01,South Carolina,3.2
+2022-06-01,South Carolina,3.2
+2022-07-01,South Carolina,3.2
+2022-08-01,South Carolina,3.3
+2022-09-01,South Carolina,3.3
+2022-10-01,South Carolina,3.3
+2022-11-01,South Carolina,3.3
+2022-12-01,South Carolina,3.3
+2021-01-01,South Dakota,3.0
+2021-02-01,South Dakota,2.9
+2021-03-01,South Dakota,2.8
+2021-04-01,South Dakota,2.8
+2021-05-01,South Dakota,2.8
+2021-06-01,South Dakota,2.8
+2021-07-01,South Dakota,2.7
+2021-08-01,South Dakota,2.7
+2021-09-01,South Dakota,2.5
+2021-10-01,South Dakota,2.4
+2021-11-01,South Dakota,2.2
+2021-12-01,South Dakota,2.1
+2022-01-01,South Dakota,2.0
+2022-02-01,South Dakota,1.9
+2022-03-01,South Dakota,1.9
+2022-04-01,South Dakota,1.9
+2022-05-01,South Dakota,2.0
+2022-06-01,South Dakota,2.0
+2022-07-01,South Dakota,2.1
+2022-08-01,South Dakota,2.2
+2022-09-01,South Dakota,2.2
+2022-10-01,South Dakota,2.2
+2022-11-01,South Dakota,2.2
+2022-12-01,South Dakota,2.2
+2021-01-01,Tennessee,5.4
+2021-02-01,Tennessee,5.3
+2021-03-01,Tennessee,5.1
+2021-04-01,Tennessee,5.0
+2021-05-01,Tennessee,4.8
+2021-06-01,Tennessee,4.6
+2021-07-01,Tennessee,4.4
+2021-08-01,Tennessee,4.2
+2021-09-01,Tennessee,4.0
+2021-10-01,Tennessee,3.8
+2021-11-01,Tennessee,3.7
+2021-12-01,Tennessee,3.6
+2022-01-01,Tennessee,3.5
+2022-02-01,Tennessee,3.4
+2022-03-01,Tennessee,3.3
+2022-04-01,Tennessee,3.3
+2022-05-01,Tennessee,3.2
+2022-06-01,Tennessee,3.2
+2022-07-01,Tennessee,3.3
+2022-08-01,Tennessee,3.3
+2022-09-01,Tennessee,3.4
+2022-10-01,Tennessee,3.5
+2022-11-01,Tennessee,3.5
+2022-12-01,Tennessee,3.5
+2021-01-01,Texas,6.7
+2021-02-01,Texas,6.6
+2021-03-01,Texas,6.4
+2021-04-01,Texas,6.2
+2021-05-01,Texas,5.9
+2021-06-01,Texas,5.8
+2021-07-01,Texas,5.6
+2021-08-01,Texas,5.4
+2021-09-01,Texas,5.1
+2021-10-01,Texas,4.9
+2021-11-01,Texas,4.7
+2021-12-01,Texas,4.5
+2022-01-01,Texas,4.3
+2022-02-01,Texas,4.1
+2022-03-01,Texas,3.9
+2022-04-01,Texas,3.8
+2022-05-01,Texas,3.8
+2022-06-01,Texas,3.8
+2022-07-01,Texas,3.8
+2022-08-01,Texas,3.7
+2022-09-01,Texas,3.8
+2022-10-01,Texas,3.9
+2022-11-01,Texas,3.8
+2022-12-01,Texas,3.8
+2021-01-01,Utah,3.4
+2021-02-01,Utah,3.2
+2021-03-01,Utah,3.1
+2021-04-01,Utah,3.0
+2021-05-01,Utah,2.9
+2021-06-01,Utah,2.8
+2021-07-01,Utah,2.7
+2021-08-01,Utah,2.6
+2021-09-01,Utah,2.5
+2021-10-01,Utah,2.4
+2021-11-01,Utah,2.3
+2021-12-01,Utah,2.2
+2022-01-01,Utah,2.2
+2022-02-01,Utah,2.2
+2022-03-01,Utah,2.2
+2022-04-01,Utah,2.2
+2022-05-01,Utah,2.2
+2022-06-01,Utah,2.3
+2022-07-01,Utah,2.3
+2022-08-01,Utah,2.4
+2022-09-01,Utah,2.4
+2022-10-01,Utah,2.4
+2022-11-01,Utah,2.4
+2022-12-01,Utah,2.4
+2021-01-01,Vermont,4.5
+2021-02-01,Vermont,4.5
+2021-03-01,Vermont,4.4
+2021-04-01,Vermont,4.2
+2021-05-01,Vermont,4.0
+2021-06-01,Vermont,3.7
+2021-07-01,Vermont,3.5
+2021-08-01,Vermont,3.4
+2021-09-01,Vermont,3.3
+2021-10-01,Vermont,3.1
+2021-11-01,Vermont,3.0
+2021-12-01,Vermont,2.8
+2022-01-01,Vermont,2.6
+2022-02-01,Vermont,2.4
+2022-03-01,Vermont,2.3
+2022-04-01,Vermont,2.2
+2022-05-01,Vermont,2.2
+2022-06-01,Vermont,2.3
+2022-07-01,Vermont,2.5
+2022-08-01,Vermont,2.8
+2022-09-01,Vermont,3.0
+2022-10-01,Vermont,3.1
+2022-11-01,Vermont,3.1
+2022-12-01,Vermont,3.0
+2021-01-01,Virginia,4.8
+2021-02-01,Virginia,4.7
+2021-03-01,Virginia,4.6
+2021-04-01,Virginia,4.4
+2021-05-01,Virginia,4.2
+2021-06-01,Virginia,4.0
+2021-07-01,Virginia,3.7
+2021-08-01,Virginia,3.5
+2021-09-01,Virginia,3.4
+2021-10-01,Virginia,3.2
+2021-11-01,Virginia,3.1
+2021-12-01,Virginia,3.0
+2022-01-01,Virginia,2.9
+2022-02-01,Virginia,2.9
+2022-03-01,Virginia,2.8
+2022-04-01,Virginia,2.6
+2022-05-01,Virginia,2.5
+2022-06-01,Virginia,2.5
+2022-07-01,Virginia,2.6
+2022-08-01,Virginia,2.8
+2022-09-01,Virginia,3.0
+2022-10-01,Virginia,3.1
+2022-11-01,Virginia,3.2
+2022-12-01,Virginia,3.1
+2021-01-01,Washington,6.3
+2021-02-01,Washington,6.1
+2021-03-01,Washington,5.9
+2021-04-01,Washington,5.7
+2021-05-01,Washington,5.4
+2021-06-01,Washington,5.3
+2021-07-01,Washington,5.1
+2021-08-01,Washington,5.0
+2021-09-01,Washington,4.8
+2021-10-01,Washington,4.5
+2021-11-01,Washington,4.3
+2021-12-01,Washington,4.1
+2022-01-01,Washington,4.0
+2022-02-01,Washington,4.0
+2022-03-01,Washington,3.9
+2022-04-01,Washington,3.9
+2022-05-01,Washington,3.9
+2022-06-01,Washington,3.9
+2022-07-01,Washington,4.1
+2022-08-01,Washington,4.3
+2022-09-01,Washington,4.4
+2022-10-01,Washington,4.6
+2022-11-01,Washington,4.6
+2022-12-01,Washington,4.5
+2021-01-01,West Virginia,6.0
+2021-02-01,West Virginia,5.9
+2021-03-01,West Virginia,5.8
+2021-04-01,West Virginia,5.6
+2021-05-01,West Virginia,5.5
+2021-06-01,West Virginia,5.3
+2021-07-01,West Virginia,5.1
+2021-08-01,West Virginia,4.9
+2021-09-01,West Virginia,4.6
+2021-10-01,West Virginia,4.4
+2021-11-01,West Virginia,4.2
+2021-12-01,West Virginia,4.0
+2022-01-01,West Virginia,3.8
+2022-02-01,West Virginia,3.7
+2022-03-01,West Virginia,3.6
+2022-04-01,West Virginia,3.7
+2022-05-01,West Virginia,3.8
+2022-06-01,West Virginia,3.9
+2022-07-01,West Virginia,4.0
+2022-08-01,West Virginia,4.1
+2022-09-01,West Virginia,4.1
+2022-10-01,West Virginia,4.1
+2022-11-01,West Virginia,4.1
+2022-12-01,West Virginia,4.1
+2021-01-01,Wisconsin,4.6
+2021-02-01,Wisconsin,4.5
+2021-03-01,Wisconsin,4.4
+2021-04-01,Wisconsin,4.3
+2021-05-01,Wisconsin,4.1
+2021-06-01,Wisconsin,4.0
+2021-07-01,Wisconsin,3.8
+2021-08-01,Wisconsin,3.7
+2021-09-01,Wisconsin,3.4
+2021-10-01,Wisconsin,3.3
+2021-11-01,Wisconsin,3.1
+2021-12-01,Wisconsin,2.9
+2022-01-01,Wisconsin,2.8
+2022-02-01,Wisconsin,2.8
+2022-03-01,Wisconsin,2.8
+2022-04-01,Wisconsin,2.8
+2022-05-01,Wisconsin,2.9
+2022-06-01,Wisconsin,2.9
+2022-07-01,Wisconsin,3.0
+2022-08-01,Wisconsin,3.1
+2022-09-01,Wisconsin,3.1
+2022-10-01,Wisconsin,3.0
+2022-11-01,Wisconsin,3.0
+2022-12-01,Wisconsin,3.0
+2021-01-01,Wyoming,5.4
+2021-02-01,Wyoming,5.3
+2021-03-01,Wyoming,5.2
+2021-04-01,Wyoming,5.1
+2021-05-01,Wyoming,4.9
+2021-06-01,Wyoming,4.7
+2021-07-01,Wyoming,4.5
+2021-08-01,Wyoming,4.4
+2021-09-01,Wyoming,4.3
+2021-10-01,Wyoming,4.1
+2021-11-01,Wyoming,3.9
+2021-12-01,Wyoming,3.7
+2022-01-01,Wyoming,3.5
+2022-02-01,Wyoming,3.4
+2022-03-01,Wyoming,3.3
+2022-04-01,Wyoming,3.2
+2022-05-01,Wyoming,3.3
+2022-06-01,Wyoming,3.4
+2022-07-01,Wyoming,3.5
+2022-08-01,Wyoming,3.7
+2022-09-01,Wyoming,3.8
+2022-10-01,Wyoming,3.9
+2022-11-01,Wyoming,3.9
+2022-12-01,Wyoming,3.9

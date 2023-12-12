@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import us
 
-PATH = r'/Users/Ally/Documents/GitHub/coding-sample'
+PATH = r'/Users/ally/Documents/GitHub/iija-on-unemployment-rate'
 
 def iija_funding_summary():
     df_iija = pd.read_excel(os.path.join(PATH, 'iija_projects.xlsx'))
@@ -16,7 +16,7 @@ def iija_funding_summary():
     return funding_summary
 
 # variable to toggle going on the web on and off (True = local, False: web)
-USE_LOCAL_DATA = False
+USE_LOCAL_DATA = True
 
 def abbr_to_name(abbr):
     state = us.states.lookup(abbr)
@@ -28,21 +28,19 @@ def find_ur_data(append, path, use_local=False):
     states = [state.abbr for state in us.states.STATES if state.abbr != "DC"]
 
     if use_local:
-        all_states_df = pd.DataFrame()
-        for state in states:
-            filepath = os.path.join(path, f"{state}{append}.csv")
-            state_df = pd.read_csv(filepath, parse_dates=['DATE'])
-            state_df = state_df.query('@start <= DATE <= @end')
-            state_df['STATE'] = state
-            all_states_df = pd.concat([all_states_df, state_df], ignore_index=True)
+        df_ur = pd.read_csv(os.path.join(path, 'unemployment_21_22.csv'))
+        df_ur['DATE'] = pd.to_datetime(df_ur['DATE'])
+        df_ur = df_ur.query('@start <= DATE <= @end')
+        df_ur['STATE'] = df_ur['STATE'].apply(abbr_to_name)
+        return df_ur.dropna()
     else:
         states_appended = [f"{state}{append}" for state in states]
         all_states_df = web.DataReader(states_appended, 'fred', start, end)
         all_states_df = all_states_df.reset_index().melt(id_vars=['DATE'], var_name='STATE', value_name=append)
         all_states_df['STATE'] = all_states_df['STATE'].str.replace(append, '')
+        all_states_df['STATE'] = all_states_df['STATE'].apply(abbr_to_name)
+        return all_states_df.dropna()
 
-    all_states_df['STATE'] = all_states_df['STATE'].apply(abbr_to_name)
-    return all_states_df.dropna()
 
 def calculate_percentage_change(df, df2, state, rate, date):
     df[date] = pd.to_datetime(df[date])
@@ -67,6 +65,7 @@ def plot_regression(df, x_column, y_column):
     plt.xlabel('IIJA Funding ($)')
     plt.ylabel('Unemployment Rate Change 2021-2022 (%)')
     plt.title('Impact of IIJA Funding on Changes in Unemployment Rate')
+    plt.savefig(os.path.join(PATH, 'iija_on_unemployment.png'))
     return plt
 
 iija_by_state = iija_funding_summary()
